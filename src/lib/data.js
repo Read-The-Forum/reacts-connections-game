@@ -1,4 +1,4 @@
-export const Puzzles = [
+export const CONNECTION_GAMES = [
   {
     id: 1,
     categories: [
